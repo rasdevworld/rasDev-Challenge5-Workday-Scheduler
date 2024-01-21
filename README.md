@@ -2,6 +2,8 @@
 
 ## Description
 
+This calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm). This application feature dynamically updated HTML and CSS powered by jQuery.
+
 ## User Story
 
 AS AN employee with a busy schedule
@@ -30,10 +32,10 @@ MIT License - The License file is provided here : (./LICENSE)
 
 ## Screenshot
 
-
+![Alt text](assets/images/workday-scheduler.png)
 
 ## Deployed Page and GitHub Repository
 
-Deployed Webpage :
+Deployed Webpage : 
 
-Github Repository: 
+Github Repository: https://github.com/rasdevworld/rasDevs-Challenge5-Workday-Scheduler
